@@ -1,0 +1,28 @@
+repo_name: colinkiama/Mango-App-Store-Public
+report_id: f4b4b62b3dad6a75008a0c1c0818c8a9
+repo_type: Public
+timestamp: '2023-11-12T07:12:23+00:00'
+requested_by: colinkiama
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
